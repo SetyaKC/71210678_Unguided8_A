@@ -1,0 +1,3 @@
+2. Cangkir nomor 5 yang akan terisi kopi karena hanya jalan menuju cangkir 5 yang tidak 
+buntu/mampet sedangkan jalan yang menuju cangkir 4, 9, dan 7 buntu atau mampet jadi
+cangkirnya tidak bisa terisi.
